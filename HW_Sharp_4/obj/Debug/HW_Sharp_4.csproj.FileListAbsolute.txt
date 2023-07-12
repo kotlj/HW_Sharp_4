@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\HW_Sharp_4\HW_Sharp_4\bin\Debug\HW_Sharp_4.exe.config
+C:\Users\Admin\source\repos\HW_Sharp_4\HW_Sharp_4\bin\Debug\HW_Sharp_4.exe
+C:\Users\Admin\source\repos\HW_Sharp_4\HW_Sharp_4\bin\Debug\HW_Sharp_4.pdb
+C:\Users\Admin\source\repos\HW_Sharp_4\HW_Sharp_4\obj\Debug\HW_Sharp_4.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HW_Sharp_4\HW_Sharp_4\obj\Debug\HW_Sharp_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\HW_Sharp_4\HW_Sharp_4\obj\Debug\HW_Sharp_4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW_Sharp_4\HW_Sharp_4\obj\Debug\HW_Sharp_4.exe
+C:\Users\Admin\source\repos\HW_Sharp_4\HW_Sharp_4\obj\Debug\HW_Sharp_4.pdb
